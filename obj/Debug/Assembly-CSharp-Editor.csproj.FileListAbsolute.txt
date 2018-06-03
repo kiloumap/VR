@@ -1,0 +1,2 @@
+D:\Cours\Master1\Unity\V2VR\obj\Debug\Assembly-CSharp-Editor.csprojAssemblyReference.cache
+D:\Cours\Master1\Unity\V2VR\obj\Debug\Assembly-CSharp-Editor.csproj.CoreCompileInputs.cache
